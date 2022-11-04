@@ -5,7 +5,7 @@
             │                                               │                                       │
             │       _ _  _   |  _   ,_  _|_ ' ,_   _        │     web  development  environment     │
             │       (/  (_(_ | (/_, | |  [_ | | | (/_       │     strict zero dependency policy     │
-            │       f   r   a   m   e   w   o   r   k       │     compiled & self-contained i/o     │
+            │       f   r   a   m   e   w   o   r   k       │     bind & compile out-of-the-box     │
             │                                               │                                       │
             │                                               │                                       │
             ╰───────────────────────────────────────────────┴───────────────────────────────────────╯
